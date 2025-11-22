@@ -29,9 +29,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Using this link, you can log in as an Admin  http://localhost/osTicket/scp/login.php
+Using this link, you can log in as an Admin: http://localhost/osTicket/scp/login.php
 
-Using this link, you can submit a ticket as an end user:  http://localhost/osTicket 
+Using this link, you can submit a ticket as an end user: http://localhost/osTicket 
 </p>
 <br />
 
