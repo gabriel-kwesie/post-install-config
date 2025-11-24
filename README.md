@@ -55,6 +55,7 @@ Configure Departments Ticket Visibility
 In the admin panel, select departments > add a new department > and select Top-Level department >
 
 name SysAdmins, and Create
+
 Delete the Maintenance Department (not archive, for the tutorial)
 </p>
 <br />
