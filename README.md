@@ -101,9 +101,7 @@ Assign the first agent to the SysAdmin with supreme admin, add them to the onlin
 </p>
 <p>
 Open the Agent Panel, Users, and select Add user
-Example used for Lab
-karen@gmail.com
-Karen
+You will only need to put an email and a name for this tutorial
 </p>
 <br />
 
