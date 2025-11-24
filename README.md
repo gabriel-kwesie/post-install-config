@@ -52,9 +52,9 @@ Add a new role called Supreme admin with all permissions
 <p>
 Configure Departments Ticket Visibility
 
-  In the admin panel, select departments, add a new department, and select Top-Level department
+In the admin panel, select departments > add a new department > and select Top-Level department
 Name SysAdmins, and Create
-Delete the Maintenance Department (not archive) (For the lab)
+Delete the Maintenance Department (not archive, for the tutorial)
 </p>
 <br />
 
@@ -64,8 +64,7 @@ Delete the Maintenance Department (not archive) (For the lab)
 <p>
 Configure Teams
 
-In the admin panel, select Agents, Teams, and add a new team called Online banking
-Create
+In the admin panel, select Agents > Teams > and add a new team called Online banking 
 </p>
 <br />
 
@@ -73,8 +72,7 @@ Create
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To allow anyone to create a ticket without an account, go to
-settings, users, uncheck registration required 
+To allow anyone to create a ticket without an account, go to settings > users > uncheck registration required 
 </p>
 <br />
 
