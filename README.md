@@ -81,14 +81,9 @@ To allow anyone to create a ticket without an account, go to settings > users > 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure Agents (Workers)
-Admin Panel, Agents, add new 
-Examples Used in Lab
-John Doe, Jane Doe
-Email Address: johndoe@gmail.com janedoe@gmail.com 
-Username: John, Jane
-Set a password, uncheck “Send the agent a password reset email,” and set the password
-Password: Password1
+Configure two Agents (Workers) > Admin Panel > Agents > add new 
+Set a password > uncheck “Send the agent a password reset email,” and set the password
+
 </p>
 <br />
 
@@ -96,7 +91,7 @@ Password: Password1
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Assign Jane to sys admin with supreme admin, add her to the online banking team, and assign John to support with view only
+Assign the first agent to the SysAdmin with supreme admin, add them to the online banking team, and assign the second agent to support with view only
 </p>
 <br />
 
