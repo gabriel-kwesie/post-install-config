@@ -82,7 +82,7 @@ To allow anyone to create a ticket without an account, go to settings > users > 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure two Agents (Workers) > Admin Panel > Agents > add new 
+Configure two Agents (Workers) by filling in name, email, and username, then go to > Admin Panel > Agents > add new 
 Set a password > uncheck “Send the agent a password reset email,” and set the password
 
 </p>
