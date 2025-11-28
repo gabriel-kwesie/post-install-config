@@ -71,7 +71,7 @@ In the admin panel, select Agents > Teams > and add a new team called Online ban
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/242a2a8f-d74f-4a41-99d4-92eba2ea0611" />
 </p>
 <p>
 To allow anyone to create a ticket without an account, go to settings > users > uncheck registration required 
@@ -79,7 +79,7 @@ To allow anyone to create a ticket without an account, go to settings > users > 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/865ce292-39a0-4e0e-bd6d-a2656f510cd3" />
 </p>
 <p>
 Configure two Agents (Workers) by filling in name, email, and username, then go to > Admin Panel > Agents > add new 
@@ -89,7 +89,7 @@ Set a password > uncheck “Send the agent a password reset email,” and set th
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/bdb9feae-8eb5-46b6-9eca-3dc1c20ee120" />
 </p>
 <p>
 Assign the first agent to the SysAdmin with supreme admin, add them to the online banking team, and assign the second agent to support with view only
@@ -97,7 +97,7 @@ Assign the first agent to the SysAdmin with supreme admin, add them to the onlin
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/7cabc0a3-6079-4909-b2ce-a634ab6bd528" />
 </p>
 <p>
 Open the Agent Panel, Users, and select Add user
@@ -106,7 +106,7 @@ Open the Agent Panel, Users, and select Add user
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/c9063aed-fea8-4801-b4cc-637f6bde8316" />
 </p>
 <p>
 Configure SLA
