@@ -119,12 +119,12 @@ Sev-C (Grace Period: 8 hours, Business Hours)
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/be1b61da-6819-4952-ba98-31072187cb88" />
 </p>
 <p>
 Configure Help Topic (For when users create a ticket)
 Open Admin Panel, Manage, Help Topic, then select Add New Help Topic
-Examples used in tutorial
+Examples used in the tutorial
 Business Critical Outage (Report Problem)
 Personal Computer Issues (Report Problem)
 Equipment Request (General Inquiry)
