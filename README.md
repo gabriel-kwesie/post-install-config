@@ -26,7 +26,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/8745c905-29b0-4396-a085-6f9fbb707c69" />
 </p>
 <p>
 Using this link, you can log in as an Admin: http://localhost/osTicket/scp/login.php
@@ -112,8 +112,8 @@ Open the Agent Panel, Users, and select Add user
 Configure SLA
 Open the Admin Panel, manage, then SLA
 
-Sev-A (Grace Period: 1 hour, Schedule: 24/7)
-Sev-B (Grace Period: 4 hours, Schedule: 24/7)
+Sev-A (Grace Period: 1 hour, Schedule: 24/7) >
+Sev-B (Grace Period: 4 hours, Schedule: 24/7) >
 Sev-C (Grace Period: 8 hours, Business Hours)
 </p>
 <br />
@@ -124,7 +124,7 @@ Sev-C (Grace Period: 8 hours, Business Hours)
 <p>
 Configure Help Topic (For when users create a ticket)
 Open Admin Panel, Manage, Help Topic, then select Add New Help Topic
-Examples used in Lab
+Examples used in tutorial
 Business Critical Outage (Report Problem)
 Personal Computer Issues (Report Problem)
 Equipment Request (General Inquiry)
