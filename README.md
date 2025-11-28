@@ -101,7 +101,7 @@ Assign the first agent to the SysAdmin with supreme admin, add them to the onlin
 </p>
 <p>
 Open the Agent Panel, Users, and select Add user
-You will only need to put an email and a name for this tutorial
+(You will only need to put an email and a name for this tutorial)
 </p>
 <br />
 
