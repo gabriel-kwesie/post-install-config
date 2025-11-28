@@ -36,7 +36,7 @@ Using this link, you can submit a ticket as an end user: http://localhost/osTick
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/be9349d1-0c61-4872-a83c-e1a964a09156" />
 </p>
 <p>
 Configure Roles for grouping permissions
@@ -47,7 +47,7 @@ Add a new role called Supreme admin with all permissions
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/99975a6f-f341-4e73-90ae-8a94a9503520" />
 </p>
 <p>
 Configure Departments Ticket Visibility
@@ -61,7 +61,7 @@ Delete the Maintenance Department (not archive, for the tutorial)
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/ff00b5ec-c363-4f2e-8cbe-7c7275359e88" />
 </p>
 <p>
 Configure Teams
