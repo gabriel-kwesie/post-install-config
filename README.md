@@ -92,7 +92,7 @@ Set a password > uncheck “Send the agent a password reset email,” and set th
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/bdb9feae-8eb5-46b6-9eca-3dc1c20ee120" />
 </p>
 <p>
-Assign the first agent to the SysAdmin with supreme admin, add them to the online banking team, and assign the second agent to support with view only
+Assign the first agent to the SysAdmin with supreme admin, add them to the online banking team, and assign the second agent to support with supreme admin
 </p>
 <br />
 
